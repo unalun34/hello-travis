@@ -1,0 +1,17 @@
+/home/burakselyum/Development/hello-travis/MathService/bin/Debug/netstandard2.0/MathService.deps.json
+/home/burakselyum/Development/hello-travis/MathService/bin/Debug/netstandard2.0/MathService.dll
+/home/burakselyum/Development/hello-travis/MathService/bin/Debug/netstandard2.0/MathService.pdb
+/home/burakselyum/Development/hello-travis/MathService/obj/Debug/netstandard2.0/MathService.csprojAssemblyReference.cache
+/home/burakselyum/Development/hello-travis/MathService/obj/Debug/netstandard2.0/MathService.csproj.CoreCompileInputs.cache
+/home/burakselyum/Development/hello-travis/MathService/obj/Debug/netstandard2.0/MathService.AssemblyInfoInputs.cache
+/home/burakselyum/Development/hello-travis/MathService/obj/Debug/netstandard2.0/MathService.AssemblyInfo.cs
+/home/burakselyum/Development/hello-travis/MathService/obj/Debug/netstandard2.0/MathService.dll
+/home/burakselyum/Development/hello-travis/MathService/obj/Debug/netstandard2.0/MathService.pdb
+C:\Projects\Travis\hello-travis\MathService\bin\Debug\netstandard2.0\MathService.deps.json
+C:\Projects\Travis\hello-travis\MathService\bin\Debug\netstandard2.0\MathService.dll
+C:\Projects\Travis\hello-travis\MathService\bin\Debug\netstandard2.0\MathService.pdb
+C:\Projects\Travis\hello-travis\MathService\obj\Debug\netstandard2.0\MathService.csprojAssemblyReference.cache
+C:\Projects\Travis\hello-travis\MathService\obj\Debug\netstandard2.0\MathService.AssemblyInfoInputs.cache
+C:\Projects\Travis\hello-travis\MathService\obj\Debug\netstandard2.0\MathService.AssemblyInfo.cs
+C:\Projects\Travis\hello-travis\MathService\obj\Debug\netstandard2.0\MathService.dll
+C:\Projects\Travis\hello-travis\MathService\obj\Debug\netstandard2.0\MathService.pdb
